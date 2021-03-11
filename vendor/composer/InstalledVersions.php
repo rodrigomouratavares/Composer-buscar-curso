@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'f3b1981ca6e808063be490cf0f240eeabcbf8787',
     'name' => 'cviniciussdias/buscador-cursos',
   ),
   'versions' => 
   array (
     'cviniciussdias/buscador-cursos' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'f3b1981ca6e808063be490cf0f240eeabcbf8787',
     ),
     'guzzlehttp/guzzle' => 
     array (
@@ -114,12 +114,12 @@ private static $installed = array (
     ),
     'symfony/css-selector' => 
     array (
-      'pretty_version' => 'v4.4.20',
-      'version' => '4.4.20.0',
+      'pretty_version' => 'v5.2.4',
+      'version' => '5.2.4.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'f907d3e53ecb2a5fad8609eb2f30525287a734c8',
+      'reference' => 'f65f217b3314504a1ec99c2d6ef69016bb13490f',
     ),
     'symfony/dom-crawler' => 
     array (
