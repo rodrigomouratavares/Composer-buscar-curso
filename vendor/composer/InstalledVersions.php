@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '6815ddef291cb8827972f60afc1db193b215c8c9',
+    'reference' => 'd30fc59ba77dd4534e4f7d1017e8a69db4423bd6',
     'name' => 'cviniciussdias/buscador-cursos',
   ),
   'versions' => 
@@ -60,7 +60,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '6815ddef291cb8827972f60afc1db193b215c8c9',
+      'reference' => 'd30fc59ba77dd4534e4f7d1017e8a69db4423bd6',
     ),
     'doctrine/instantiator' => 
     array (
